@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "eslint": "^8.55.0"
+  },
+  "dependencies": {
+    "email": "^0.2.6"
+  }
+}
